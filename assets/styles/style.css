@@ -1,0 +1,27 @@
+.container {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    max-width: 90vw;
+    margin-top: 5vh;
+}
+
+.header__button {
+    font-family: 'Intro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 13px;
+    background: #5222D0;
+    border-radius: 100px;
+    border: 0;
+}
+
+.header-button__text {
+    color: #FFFFFF;
+    text-decoration: none;
+}
